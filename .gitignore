@@ -1,0 +1,13 @@
+# Large data files
+*.csv
+*.7z
+games.xls
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Notebook artifacts
+.ipynb_checkpoints/
+parquet/
+cleaned_data.csv
